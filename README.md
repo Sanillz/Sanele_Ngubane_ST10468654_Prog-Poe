@@ -1,0 +1,1 @@
+Part 3: Added arrays for sent, stored and disregarded messages Part 3: Added Stored Messages menu (option 4) and all sub-features Part 3: Added ability to read JSON file into arrays Part 3: Added unit tests for arrays, search, delete and report Part 3: Final clean-up and testing
